@@ -1,2 +1,2 @@
-# prepCourse-Herny
-este es un reprosutorio de prueba
+este proycto es una pu
+
